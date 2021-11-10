@@ -26,13 +26,13 @@ section{
 	padding-top: 50px;
 	padding-bottom: 50px;
 
-    border: solid blue;
+   /* border: solid blue;*/ 
 }
 
 section div.contenido{
     width: 1100px;
 
-    border: solid yellow;
+  /*  border: solid yellow;*/
     
     margin: auto;
     display: flex;
@@ -139,19 +139,19 @@ div.login span{
 .izquierda{
     float: left;
 
-    border: solid brown;
+  /*  border: solid brown;*/
 }
 
 .derecha{
     float: right;
 
-    border: solid green;
+    /*border: solid green;*/
 }
 
 .flotanteTexto{
     width: 59%;
     
-    border: solid red;
+   /* border: solid red;*/
 }
 
 .flotanteImagen{
@@ -275,7 +275,7 @@ div.login span{
     width: auto;
     margin: auto;
     text-align: center;
-    /* border: solid ; */
+     /*border: solid ; */
 }
 
 .formf input{
@@ -296,7 +296,7 @@ div.login span{
     padding-bottom: 19px;
     font-weight: 500;
     margin-left: -5px;
-    border: solid #d30f18;
+   border: solid #d30f18;
 }
 
 .formf h3{
@@ -304,7 +304,7 @@ div.login span{
     text-align: center;
     font-size: 1.2rem;
     padding-top: 50px;
-    /* border: solid #d30f18; */
+    /* border: solid #d30f18;  */
 }
 
 .pieContenido{
