@@ -1,0 +1,1 @@
+alert("Vas a jugar Genshin Impact? :D");
